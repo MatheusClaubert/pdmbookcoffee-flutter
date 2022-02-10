@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "107730817318",
+    "project_id": "bookcafe-ffc4d",
+    "storage_bucket": "bookcafe-ffc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107730817318:android:bff46ec28714f52cac31e7",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107730817318-ng7jncfqc96uc6cqh320fck62on1lcpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnd7iIaBKbSBn7dTIc8t9W7CeZWWI1pXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107730817318-ng7jncfqc96uc6cqh320fck62on1lcpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
